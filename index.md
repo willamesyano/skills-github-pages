@@ -1,7 +1,3 @@
----
-title: Welcome to my blog
----
-
 ## About Me
 
 Hello! My name is Willames Yano, and I am passionate about programming. I have experience in Java+Angular, and I enjoy working on projects related to banking. 
